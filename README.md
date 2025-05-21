@@ -95,14 +95,14 @@ Lorem ipsum dolor sit amet. Quo quam possimus hic provident possimus vel sapient
 
 ## Projects
 
-| Sr | Title                               | Actions                    |
-|----|-------------------------------------|----------------------------|
-| 1  | University Project 1                | [View Repository]()        |
-| 2  | University Project 2                | [View Repository]()        |
-| 3  | University Project 3                | [View Repository]()        |
-| 4  | University Project 4                | [View Repository]()        |
-| 5  | University Project 5                | [View Repository]()        |
-| 6  | University Project 6                | [View Repository]()        |
+| Sr | Type                              | Title                             | Actions                    |
+|----|-----------------------------------|-----------------------------------|----------------------------|
+| 1  | University Project                | some title goes here              | [View Repository]()        |
+| 2  | University Project                | some title goes here              | [View Repository]()        |
+| 3  | University Project                | some title goes here              | [View Repository]()        |
+| 4  | University Project                | some title goes here              | [View Repository]()        |
+| 5  | University Project                | some title goes here              | [View Repository]()        |
+| 6  | University Project                | some title goes here              | [View Repository]()        |
 
 ## Usage
 
