@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/couchbloopers/old-academic-work/refs/heads/main/assets/images/readme-repo-art.png">
+  <img src="https://raw.githubusercontent.com/couchbloopers/old-academic-work/refs/heads/main/assets/images/old-readme-repo-art.png">
   <br>
   <i>Consortium of academic coursework completed during my time at university.</i>
   <br>
